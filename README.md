@@ -26,6 +26,7 @@
 
 <h4 align="left">
 🔭 I’m currently working with TypeScript, Next.js, MERN, and MySQL<br><br>
+🌱 Currently learning <b>Advanced Backend Development, System Design, and Scalable APIs</b><br><br>
 💬 Ask me about Web Development, JavaScript, TypeScript
 </h4>
 
