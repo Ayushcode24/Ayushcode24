@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
+  <img height="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 </div>
 
 ###
@@ -14,28 +14,40 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="300" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif"/>
 
 ###
 
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushcode24" alt="ayushcode24"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayushcode24&left_color=yellow&right_color=red&left_text=Profile%20Visitors"/>
 </div>
 
 ###
 
-<h4 align="left">🔭 I’m currently working with TypeScript, Next.js, MERN, and MySQL<br><br>💬 Ask me about Web Development, JavaScript, TypeScript<br><br></h4>
+<h4 align="left">
+🔭 I’m currently working with TypeScript, Next.js, MERN, and MySQL<br><br>
+💬 Ask me about Web Development, JavaScript, TypeScript
+</h4>
 
 ###
+
 <br clear="both">
+
 - 📫 How to reach me **ray.ayush451@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/aaayush_ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aaayush_ray" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayushray24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayushray24/" height="30" width="40" /></a>
-</p>
 
+<p align="left">
+
+<a href="https://twitter.com/aaayush_ray" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayushray24/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+</p>
 <h2 align="center">🛠️ Skills</h2>
 
 <div align="center">
