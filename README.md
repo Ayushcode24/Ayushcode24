@@ -16,12 +16,10 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://camo.githubusercontent.com/44d22fb025ff51bd2a47a8825be9f76eff7118b65b7b5ec5d54531f9ab5f93c4/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33652f39642f35322f33653964353262633338666132383761346366313064636638313339303736642e676966"  />
-
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jahapnah.jahapnah&left_color=yellow&right_color=red&left_text=Profile%20Visitors"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushcode24" alt="ayushcode24"  />
 </div>
 
 ###
@@ -29,9 +27,7 @@
 <h4 align="left">🔭 I’m currently working with TypeScript, Next.js, MERN, and MySQL<br><br>💬 Ask me about Web Development, JavaScript, TypeScript<br><br></h4>
 
 ###
-
 <br clear="both">
-
 - 📫 How to reach me **ray.ayush451@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
