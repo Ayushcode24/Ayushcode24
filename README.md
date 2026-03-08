@@ -1,17 +1,36 @@
-<h1 align="center">Hi 👋, I'm Ayush Ray</h1>
-<h3 align="center">A passionate MERN Stack developer and aspiring software engineer from India 🌟</h3>
+<br clear="both">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushcode24&label=Profile%20views&color=0e75b6&style=flat" alt="ayushcode24" /> </p>
+<div align="center">
+  <img height="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushcode24" alt="ayushcode24" /></a> </p>
+###
 
-- 🔭 I’m currently working on **A full-featured eCommerce platform built with the MERN stack, enabling users to browse, purchase, and manage their orders seamlessly.**
+<h1 align="center">Hi 👋, I'm Ayush Ray !!</h1>
 
-- 🌱 I’m currently learning **MERN Stack: Diving deeper into MongoDB, Express.js, React, and Node.js to build robust, full-stack web applications.**
+###
 
-- 👯 I’m looking to collaborate on **adding features like payment gateway integration, advanced filtering, and user analytics.**
+<h3 align="center">𝘼 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙒𝙚𝙗 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙛𝙧𝙤𝙢 𝙄𝙣𝙙𝙞𝙖 🇮🇳</h3>
 
-- 🤝 I’m looking for help with **Implementing advanced features in MERN stack projects. Improving efficiency in DSA problem-solving techniques**
+###
+
+<br clear="both">
+
+<img align="right" height="300" src="https://camo.githubusercontent.com/44d22fb025ff51bd2a47a8825be9f76eff7118b65b7b5ec5d54531f9ab5f93c4/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33652f39642f35322f33653964353262633338666132383761346366313064636638313339303736642e676966"  />
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jahapnah.jahapnah&left_color=yellow&right_color=red&left_text=Profile%20Visitors"  />
+</div>
+
+###
+
+<h4 align="left">🔭 I’m currently working with TypeScript, Next.js, MERN, and MySQL<br><br>💬 Ask me about Web Development, JavaScript, TypeScript<br><br></h4>
+
+###
+
+<br clear="both">
 
 - 📫 How to reach me **ray.ayush451@gmail.com**
 
